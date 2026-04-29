@@ -12,9 +12,6 @@ import os
 import re
 import sys
 
-#YOUR CODE SHOULD HAVE NONE OF THE INSTRUCTORS COMMENTS REMAINING WHEN YOU ARE FINISHED
-#PLEASE REPLACE INSTRUCTOR "PROMPTS" WITH COMMENTS OF YOUR OWN
-
 def main():
     for line in sys.stdin:
         # check if line starts with # (skip line)
